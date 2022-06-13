@@ -14,11 +14,11 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/christopherthlee/ChristopherLee/commit/414700403a40066d7e6cdb5d0ae6c8935e435c4e)
+![alt text](https://github.com/christopherthlee/ChristopherLee/blob/414700403a40066d7e6cdb5d0ae6c8935e435c4e/CL%20photo.jpg)
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am Christopher Lee, rich experience in technical, commercial, and operational affairs of logistic equipment manufacturing & services business mainly centered around cold chain and cargo requirements, containers suitability & shipping operations industry. Strategy-oriented and excellence-driven professional with demonstrated success in leading business management, commercial operations & technical services for equipment manufacturing & support at corporate level in international settings. In-depth understanding of global shipping business products development and management, market trends and materials engineering; well-networked with business leaders in the container shipping industry; IT remodel projects, and technical prowess in storage containers material quality management system, procurement, products design & engineering, and manufacturing for transportation. Key achievements on generating new products, gain new revenue, cost control, patent, business development and improve operating efficiency..
 
 
 <!-- Add link to the sections -->
