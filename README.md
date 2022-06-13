@@ -33,10 +33,11 @@ I am Christopher Lee, rich experience in technical, commercial, and operational 
 ### EXPERIENCE
 <!-- Add your details -->
 ##### Global Logistic Equipment Consulting Services
-SENIOR ANALYST<br>
+Consultant<br>
 October-2020 to Present: 1 year 6 Months
 
 ROLE: Consultant/Chief Commercial Officer/Global Technical Director
+
 UNIT: Commercial, Procurement, Operations & Technical
 
 Working on various commercial, Operations & Technical projects through business deveopment, data analytics, and adopt HCD/Hypothesis/DVF/Creative Matrix on new product development, SWOT/VUCA on market climate and situation, Six Sigmax-DMAIC on Products Quality & Process improvement, and using Agile methodolgy to manage major projects. 
@@ -61,17 +62,16 @@ Diplomas in Computing Sutdies & Organisation with Distinction, Graduated in 1999
 
 <!-- Add your details -->
 
-#### Classification based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+#### Patented projects
+![alt text](https://patents.google.com/patent/US8689424B2/en)
+Developed 53ft unversal containers that can be stackable and stowable on containerized vessel.
 
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+#### Patented projects
+![alt text] (https://www.youtube.com/watch?v=2xkEL6Yjiok)
+Develped ISO Palletwide Containers to improve the durability and reduce the operating cost.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
-#### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
 
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
@@ -81,9 +81,23 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Bachelor Degree in Business Administration
-Diploma in Computing Studies & Organisation
+Leadership Management 
+Coating and Corrosion Analysis
+Airconditioning & Refrigeration in Mechnical Engineering
+Perishable Cargo Assessment and inspection
+Cargo Claim survey and evaluation
+Logistic Equipment inspection and certification
+
 
 ##### Achievements
-Star performer of the year at Accenture
+Led a team to bring in 6 new accounts with the revenue of $80M within 6 months.
+Led a team to revamp the entire procurement process to ensure ethical and approval compliance with audit committee.
+Led a team to analyse the operating expenses and identify wastage to reudce the operating cost by $8M to $10M YoY.
+Led a team to review the entire operating process and work with IT team to improve the data structure and system to capture accuracy of data close to real time.
+Developed and patented 3 new logistic products to advance the performance and reduce maintenance cost.
+Instituted tripatite agreement between PSA, NUS and APL to offer industry projects for NUS ME 3rd students, and mentored the students on each projects to the fullfilment and assessment.
+Appointed as subject matter expert on behalf of Singapore in the ISO TC104 WC between 2001 to 2013.
+Launch new Saas application in Asia Pacific and gained 6 new accounts.
+
+
 <!-- FEATURED Section Ends -->
