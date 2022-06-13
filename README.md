@@ -4,10 +4,10 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+✉️: christopherthlee@hotmail.com 
+&nbsp;&nbsp; 📲 +65-97218871
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/lee-christopher-7531a124/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://www.linkedin.com/in/lee-christopher-7531a124/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
