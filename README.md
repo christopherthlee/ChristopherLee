@@ -57,9 +57,6 @@ Diplomas in Computing Sutdies & Organisation with Distinction, Graduated in 1999
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
-
 <!-- Add your details -->
 
 #### Patented projects
@@ -70,10 +67,6 @@ Developed 53ft unversal containers that can be stackable and stowable on contain
 ![alt text] (https://www.youtube.com/watch?v=2xkEL6Yjiok)
 Develped ISO Palletwide Containers to improve the durability and reduce the operating cost.
 
-
-
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
 <!-- PROJECTS Section Ends -->
 
