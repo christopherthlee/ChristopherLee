@@ -32,23 +32,24 @@ I am Christopher Lee, rich experience in technical, commercial, and operational 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
+##### Global Logistic Equipment Consulting Services
 SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+October-2020 to Present: 1 year 6 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Consultant/Chief Commercial Officer/Global Technical Director
+UNIT: Commercial, Procurement, Operations & Technical
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Working on various commercial, Operations & Technical projects through business deveopment, data analytics, and adopt HCD/Hypothesis/DVF/Creative Matrix on new product development, SWOT/VUCA on market climate and situation, Six Sigmax-DMAIC on Products Quality & Process improvement, and using Agile methodolgy to manage major projects. 
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
-
+##### Thames Valley University (aka West London University)
+Bachelor Degree in Business Administration, Graduated in 2003 
+##### University of Cambridge
+Diplomas in Computing Sutdies & Organisation with Distinction, Graduated in 1999
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
@@ -80,7 +81,8 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+Bachelor Degree in Business Administration
+Diploma in Computing Studies & Organisation
 
 ##### Achievements
 Star performer of the year at Accenture
