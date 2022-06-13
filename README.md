@@ -63,7 +63,6 @@ Diplomas in Computing Sutdies & Organisation with Distinction, Graduated in 1999
 ![alt text](https://github.com/christopherthlee/ChristopherLee/blob/main/53ft%20patent)
 Developed 53ft unversal containers that can be stackable and stowable on containerized vessel.
 
-#### Patented projects
 ![alt text](https://github.com/christopherthlee/ChristopherLee/blob/main/SeaPC%2B)
 Develped ISO Palletwide Containers to improve the durability and reduce the operating cost.
 
